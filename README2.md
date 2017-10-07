@@ -1,6 +1,7 @@
  ## 3. Create a new branch. 
  In the Git Bash console, type in the following command : (make sure you are in the same console just now)
- 1. You need to go into the directory of the project you cloned just now. (Since I had cloned the Apple's Swift repo, so the project folder name is `swift`). FYI, `cd` is a UNIX command which means Change Directory.
+ 1. You need to go into the directory of the project you cloned just now. (Since I had cloned the Apple's Swift repo, so the project folder name is `swift`).  
+ FYI, `cd` is a UNIX command which means Change Directory.
  ```
  cd swift
  ```
@@ -16,7 +17,7 @@
  
  Notice that the blue word `master` indicate that you are in the `master` branch currently.
  
- ## 4. Checkout into the newly created branch
+ ## 4. Switch to the newly created branch
  This step is fairly simple, you just have to type in the following command.  
  ```
  git checkout adding-new-feature
