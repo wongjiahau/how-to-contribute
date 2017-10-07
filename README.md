@@ -16,6 +16,7 @@
 ![image](https://user-images.githubusercontent.com/23183656/31303154-4555cade-ab3b-11e7-9f34-ec0d924e2001.png)  
 
 4. Now, go to the website of the repository you want to contribute, then click on the 'Clone or download' button : 
+
 ![image](https://user-images.githubusercontent.com/23183656/31303228-9cf50f9c-ab3c-11e7-80c1-819c1d6a48f6.png)  
   
 5. Then click on the 'Copy to clipboard' button. *(Don't click on 'Downloand' or 'Open in Desktop'!)*  
