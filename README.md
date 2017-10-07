@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/23183656/31303228-9cf50f9c-ab3c-11e7-80c1-819c1d6a48f6.png)  
   
-5. Then click on the 'Copy to clipboard' button. *(Don't click on 'Downloand' or 'Open in Desktop'!)*  
+5. Then click on the 'Copy to clipboard' button. *(Don't click on 'Download' or 'Open in Desktop'!)*  
 
 ![image](https://user-images.githubusercontent.com/23183656/31303261-025ad556-ab3d-11e7-9869-5cc90e692776.png)
 
