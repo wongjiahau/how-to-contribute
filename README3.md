@@ -33,7 +33,11 @@ Then you shall see this :
 git commit -m "Modified README.md"
 ```
 You can replace those words within the double quote with your own sentence, but make sure it is meaningful.   
-Click **[HERE](https://who-t.blogspot.my/2009/12/on-commit-messages.html)** to learn how to write **good** commit messages.
+Click **[HERE](https://who-t.blogspot.my/2009/12/on-commit-messages.html)** to learn how to write **good** commit messages.  
+After that you shall see this :  
+
+![image](https://user-images.githubusercontent.com/23183656/31303801-42efb024-ab46-11e7-8c54-207ddc53f50e.png)
+
 
 ## Click **[HERE](https://github.com/wongjiahau/how-to-contribute/blob/master/README4.md)** to proceed to Step 7.
 
