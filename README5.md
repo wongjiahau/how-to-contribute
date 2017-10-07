@@ -13,3 +13,5 @@ Now, feel free to create new branches.
 
 ###  If you want to ask questions please post an Issue in this repo.   
 ### You can post the issue [HERE](https://github.com/wongjiahau/how-to-contribute/issues) by clicking on the `New Issue` button.
+
+# Thanks for reading! :smile:
